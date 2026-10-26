@@ -3,103 +3,207 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cœur en Rose · Remerciement & Billet</title>
-  
-  <!-- Fonts used in the original files: Georgia, Poppins -->
+  <title>Cœur en Rose · Les 5 Pages de Billets & Remerciements</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-  
   <link rel="stylesheet" href="style.css">
+  <style>
+    .hub-container {
+      width: 100%;
+      max-width: 960px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 28px;
+    }
+    .hub-header {
+      background: #1a1e27;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 16px;
+      padding: 24px;
+      text-align: center;
+    }
+    .hub-header h1 {
+      font-size: 1.6rem;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+    .hub-header p {
+      font-size: 0.95rem;
+      color: #94a3b8;
+    }
+    .pages-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .page-card {
+      background: #1a1e27;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 14px;
+      padding: 18px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+      transition: all 0.2s ease;
+    }
+    .page-card:hover {
+      border-color: #f43f5e;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    }
+    .page-card-info {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .page-num {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: rgba(244, 63, 94, 0.15);
+      color: #f43f5e;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 1.1rem;
+    }
+    .page-names h3 {
+      font-size: 1.1rem;
+      color: #fff;
+      margin-bottom: 4px;
+    }
+    .page-names p {
+      font-size: 0.82rem;
+      color: #94a3b8;
+    }
+    .page-card-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .btn-action {
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+    }
+    .btn-action.open {
+      background: #f43f5e;
+      color: #fff;
+    }
+    .btn-action.open:hover {
+      background: #e11d48;
+    }
+    .btn-action.download {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: #cbd5e1;
+    }
+    .btn-action.download:hover {
+      background: rgba(255, 255, 255, 0.15);
+      color: #fff;
+    }
+  </style>
 </head>
 <body>
 
-  <div class="main-container">
+  <div class="hub-container">
 
-    <!-- Header bar with categories and scanner button -->
-    <header class="app-topbar">
-      <div class="topbar-nav">
-        <div class="pills-group" id="ticket-pills">
-          <!-- Populated by app.js -->
-        </div>
-
-        <div class="action-tools">
-          <button id="btn-open-scanner" class="tool-btn" onclick="toggleScannerModal()">
-            <span>📷</span> Scanner un QR Code
-          </button>
-          <a id="btn-download-qr" class="tool-btn download" href="qr_codes/web/qr_CER-STD-2026.png" download="QR_CER-STD-2026.png">
-            <span>⬇️</span> Télécharger le QR Code
-          </a>
-        </div>
-      </div>
-    </header>
-
-    <!-- Scan Confirmation Badge -->
-    <div class="scan-status-strip" id="scan-status-strip">
-      <span class="status-dot"></span>
-      <span id="scan-status-text">Code QR scanné avec succès · Billet CER-STD-2026</span>
+    <div class="hub-header">
+      <h1>Cœur en Rose · Les 5 Pages Séparées</h1>
+      <p>Chaque page possède son lien propre et indépendant, prêt à être transformé en code QR.</p>
     </div>
 
-    <!-- Presentation Area: Carte de remerciement + Ticket associé -->
-    <main class="slides-viewer">
+    <div class="pages-list">
 
-      <!-- 1. CARTE DE REMERCIEMENT (Exactement comme dans Carte de remerciement.pptx) -->
-      <section class="slide-block" id="block-carte">
-        <div class="slide-label">1. Message de Remerciement (Carte de remerciement)</div>
-        <div class="slide-frame carte-frame" id="carte-frame">
-          <img id="carte-slide-img" class="exact-slide-image" src="slides_export/carte/carte_slide_1.png" alt="Carte de Remerciement">
-        </div>
-      </section>
-
-      <!-- 2. ÉLÉMENT QUI SUIT LE MESSAGE : LE BILLET (Exactement comme dans Tickets_Coeur_en_Rose_PowerPoint.pptx) -->
-      <section class="slide-block" id="block-ticket">
-        <div class="slide-label">2. Détails du Billet (Élément associé)</div>
-        <div class="slide-frame ticket-frame" id="ticket-frame">
-          <img id="ticket-slide-img" class="exact-slide-image" src="slides_export/tickets/ticket_slide_1.png" alt="Détails du Billet">
-        </div>
-      </section>
-
-    </main>
-
-  </div>
-
-  <!-- MODAL SCANNER QR -->
-  <div id="scanner-modal" class="modal-overlay">
-    <div class="modal-box">
-      <div class="modal-header">
-        <h3>Scanner un Code QR</h3>
-        <button class="modal-close-btn" onclick="toggleScannerModal()">✕</button>
-      </div>
-
-      <div class="modal-body">
-        <div class="scanner-viewport">
-          <video id="scanner-video" playsinline></video>
-          <canvas id="scanner-canvas"></canvas>
-          <div class="scanner-aim-box">
-            <div class="scanner-laser"></div>
+      <!-- Page 1: Solidaire -->
+      <div class="page-card">
+        <div class="page-card-info">
+          <div class="page-num">1</div>
+          <div class="page-names">
+            <h3>Ticket Standard « Solidaire »</h3>
+            <p>Fichier : <code>solidaire.html</code> · Tarif : 50 000 FCFA · Code : CER-STD-2026</p>
           </div>
         </div>
-
-        <div class="scanner-msg" id="scanner-msg">
-          Pointez la caméra vers le code QR d'un billet.
-        </div>
-
-        <div class="scanner-upload-row">
-          <label class="btn-upload">
-            <span>📁</span> Ou importer une image de QR Code
-            <input type="file" id="input-qr-file" accept="image/*" style="display: none;" onchange="handleFileUpload(event)">
-          </label>
+        <div class="page-card-actions">
+          <a class="btn-action open" href="solidaire.html"><span>🔗</span> Ouvrir la Page</a>
+          <a class="btn-action download" href="qr_codes/pages/qr_solidaire.png" download="qr_solidaire.png"><span>⬇️</span> Télécharger QR</a>
         </div>
       </div>
+
+      <!-- Page 2: Espoir -->
+      <div class="page-card">
+        <div class="page-card-info">
+          <div class="page-num">2</div>
+          <div class="page-names">
+            <h3>Ticket VIP « Espoir »</h3>
+            <p>Fichier : <code>espoir.html</code> · Tarif : 100 000 FCFA · Code : CER-VIP-2026</p>
+          </div>
+        </div>
+        <div class="page-card-actions">
+          <a class="btn-action open" href="espoir.html"><span>🔗</span> Ouvrir la Page</a>
+          <a class="btn-action download" href="qr_codes/pages/qr_espoir.png" download="qr_espoir.png"><span>⬇️</span> Télécharger QR</a>
+        </div>
+      </div>
+
+      <!-- Page 3: Cœur d'Or -->
+      <div class="page-card">
+        <div class="page-card-info">
+          <div class="page-num">3</div>
+          <div class="page-names">
+            <h3>Ticket Prestige « Cœur d'Or »</h3>
+            <p>Fichier : <code>coeur-dor.html</code> · Tarif : 150 000 FCFA · Code : CER-OR-2026</p>
+          </div>
+        </div>
+        <div class="page-card-actions">
+          <a class="btn-action open" href="coeur-dor.html"><span>🔗</span> Ouvrir la Page</a>
+          <a class="btn-action download" href="qr_codes/pages/qr_coeur_dor.png" download="qr_coeur_dor.png"><span>⬇️</span> Télécharger QR</a>
+        </div>
+      </div>
+
+      <!-- Page 4: Partenaire -->
+      <div class="page-card">
+        <div class="page-card-info">
+          <div class="page-num">4</div>
+          <div class="page-names">
+            <h3>Table Entreprise · Partenaire</h3>
+            <p>Fichier : <code>partenaire.html</code> · Tarif : 1 600 000 FCFA · Code : CER-TBL-2026</p>
+          </div>
+        </div>
+        <div class="page-card-actions">
+          <a class="btn-action open" href="partenaire.html"><span>🔗</span> Ouvrir la Page</a>
+          <a class="btn-action download" href="qr_codes/pages/qr_partenaire.png" download="qr_partenaire.png"><span>⬇️</span> Télécharger QR</a>
+        </div>
+      </div>
+
+      <!-- Page 5: Marraine / Parrain -->
+      <div class="page-card">
+        <div class="page-card-info">
+          <div class="page-num">5</div>
+          <div class="page-names">
+            <h3>Marraine / Parrain d'Espoir</h3>
+            <p>Fichier : <code>marraine-parrain.html</code> · Tarif : 300 000–500 000 FCFA · Code : CER-MP-2026</p>
+          </div>
+        </div>
+        <div class="page-card-actions">
+          <a class="btn-action open" href="marraine-parrain.html"><span>🔗</span> Ouvrir la Page</a>
+          <a class="btn-action download" href="qr_codes/pages/qr_marraine_parrain.png" download="qr_marraine_parrain.png"><span>⬇️</span> Télécharger QR</a>
+        </div>
+      </div>
+
     </div>
+
   </div>
 
-  <!-- Notification Toast -->
-  <div id="toast" class="toast">Code QR détecté !</div>
-
-  <!-- Scripts -->
-  <script src="jsQR.min.js"></script>
-  <script src="tickets_data.js"></script>
-  <script src="app.js"></script>
 </body>
 </html>
