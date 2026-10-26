@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cœur en Rose · Remerciement & Billet</title>
+  
+  <!-- Fonts used in the original files: Georgia, Poppins -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="main-container">
+
+    <!-- Header bar with categories and scanner button -->
+    <header class="app-topbar">
+      <div class="topbar-nav">
+        <div class="pills-group" id="ticket-pills">
+          <!-- Populated by app.js -->
+        </div>
+
+        <div class="action-tools">
+          <button id="btn-open-scanner" class="tool-btn" onclick="toggleScannerModal()">
+            <span>📷</span> Scanner un QR Code
+          </button>
+          <a id="btn-download-qr" class="tool-btn download" href="qr_codes/web/qr_CER-STD-2026.png" download="QR_CER-STD-2026.png">
+            <span>⬇️</span> Télécharger le QR Code
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Scan Confirmation Badge -->
+    <div class="scan-status-strip" id="scan-status-strip">
+      <span class="status-dot"></span>
+      <span id="scan-status-text">Code QR scanné avec succès · Billet CER-STD-2026</span>
+    </div>
+
+    <!-- Presentation Area: Carte de remerciement + Ticket associé -->
+    <main class="slides-viewer">
+
+      <!-- 1. CARTE DE REMERCIEMENT (Exactement comme dans Carte de remerciement.pptx) -->
+      <section class="slide-block" id="block-carte">
+        <div class="slide-label">1. Message de Remerciement (Carte de remerciement)</div>
+        <div class="slide-frame carte-frame" id="carte-frame">
+          <img id="carte-slide-img" class="exact-slide-image" src="slides_export/carte/carte_slide_1.png" alt="Carte de Remerciement">
+        </div>
+      </section>
+
+      <!-- 2. ÉLÉMENT QUI SUIT LE MESSAGE : LE BILLET (Exactement comme dans Tickets_Coeur_en_Rose_PowerPoint.pptx) -->
+      <section class="slide-block" id="block-ticket">
+        <div class="slide-label">2. Détails du Billet (Élément associé)</div>
+        <div class="slide-frame ticket-frame" id="ticket-frame">
+          <img id="ticket-slide-img" class="exact-slide-image" src="slides_export/tickets/ticket_slide_1.png" alt="Détails du Billet">
+        </div>
+      </section>
+
+    </main>
+
+  </div>
+
+  <!-- MODAL SCANNER QR -->
+  <div id="scanner-modal" class="modal-overlay">
+    <div class="modal-box">
+      <div class="modal-header">
+        <h3>Scanner un Code QR</h3>
+        <button class="modal-close-btn" onclick="toggleScannerModal()">✕</button>
+      </div>
+
+      <div class="modal-body">
+        <div class="scanner-viewport">
+          <video id="scanner-video" playsinline></video>
+          <canvas id="scanner-canvas"></canvas>
+          <div class="scanner-aim-box">
+            <div class="scanner-laser"></div>
+          </div>
+        </div>
+
+        <div class="scanner-msg" id="scanner-msg">
+          Pointez la caméra vers le code QR d'un billet.
+        </div>
+
+        <div class="scanner-upload-row">
+          <label class="btn-upload">
+            <span>📁</span> Ou importer une image de QR Code
+            <input type="file" id="input-qr-file" accept="image/*" style="display: none;" onchange="handleFileUpload(event)">
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Notification Toast -->
+  <div id="toast" class="toast">Code QR détecté !</div>
+
+  <!-- Scripts -->
+  <script src="jsQR.min.js"></script>
+  <script src="tickets_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

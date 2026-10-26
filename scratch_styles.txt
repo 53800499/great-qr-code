@@ -1,0 +1,226 @@
+============================================================
+FILE: Carte de remerciement.pptx
+
+--- Slide 1 ---
+  [TextBox 2] Merci de faire partie de cette belle chaîne de solidarité. Par votre présence, vous donnez de la force et de l’espoir à toutes celles qui se battent contre le cancer du sein. Ensemble, nous sommes plus forts. Votre ticket solidaire est le premier maillon de cette chaîne: sans lui, rien ne serait possible. Merci de lancer l’élan.
+       Fonts: ['Adam Script Bold', 'Adam Script'] | Sizes: ['1329', '1329'] | Colors: ['000000', '000000'] | ShapeFills: []
+  [TextBox 3] Reprod’Action Santé
+       Fonts: ['Halimum'] | Sizes: ['1200'] | Colors: ['000000'] | ShapeFills: []
+  [TextBox 4] Ticket Solidaire
+       Fonts: ['Kingred Youth'] | Sizes: ['1659'] | Colors: ['000000'] | ShapeFills: []
+
+--- Slide 2 ---
+  [TextBox 2] Reprod’Action Santé
+       Fonts: ['Halimum'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [TextBox 3] Merci de faire partie de cette belle chaîne de solidarité. Par votre présence, vous donnez de la force et de l’espoir à toutes celles qui se battent contre le cancer du sein. Ensemble, nous sommes plus forts.Votre ticket espoir est une lumière pour celles qui en ont beoin.
+       Fonts: ['Adam Script Bold'] | Sizes: ['1300'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [TextBox 4] Ticket Espoir
+       Fonts: ['Kingred Youth'] | Sizes: ['2059'] | Colors: ['FFFFFF'] | ShapeFills: []
+
+--- Slide 3 ---
+  [TextBox 2] Merci de faire partie de cette belle chaîne de solidarité. Par votre présence, vous donnez de la force et de l’espoir à toutes celles qui se battent contre le cancer du sein. Ensemble, nous sommes plus forts. Votre générosité a un cœur en or, merci.
+       Fonts: ['Adam Script Bold'] | Sizes: ['1300'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [TextBox 3] Reprod’Action Santé
+       Fonts: ['Halimum'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [TextBox 4] Ticket Cœur d’Or
+       Fonts: ['Kingred Youth', 'Kingred Youth'] | Sizes: ['2159', '2159'] | Colors: ['FFFFFF', 'FFFFFF'] | ShapeFills: []
+
+--- Slide 4 ---
+  [TextBox 2] Merci de faire partie de cette belle chaîne de solidarité. Par votre présence, vous donnez de la force et de l’espoir à toutes celles qui se battent contre le cancer du sein. Ensemble, nous sommes plus forts. Merci de porter cette cause avec nous, vous faites rayonner la solidarité bien au-delà de cette soirée. Tous les héros ne portent pas de cape.
+       Fonts: ['Adam Script Bold'] | Sizes: ['1300'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [TextBox 3] Reprod’Action Santé
+       Fonts: ['Halimum'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [TextBox 4] Ticket Partenaire
+       Fonts: ['Kingred Youth'] | Sizes: ['2159'] | Colors: ['FFFFFF'] | ShapeFills: []
+
+--- Slide 5 ---
+  [TextBox 2] Merci de faire partie de cette belle chaîne de solidarité. Par votre présence, vous donnez de la force et de l’espoir à toutes celles qui se battent contre le cancer du sein. Ensemble, nous sommes plus forts. Marraine et Parrain de coeur, vous êtes le visage de notre engagement. Merci de porter cette cause avec nous, et de lui donner tant d’élan.
+       Fonts: ['Adam Script Bold'] | Sizes: ['1300'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [TextBox 3] Reprod’Action Santé
+       Fonts: ['Halimum'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [TextBox 4] Ticket Marraine/Parrain
+       Fonts: ['Kingred Youth'] | Sizes: ['2159'] | Colors: ['FFFFFF'] | ShapeFills: []
+============================================================
+FILE: Tickets_Coeur_en_Rose_PowerPoint (1).pptx
+
+--- Slide 1 ---
+  [Google Shape;16;p1] 1. Ticket Standard « Solidaire »
+       Fonts: ['Times New Roman'] | Sizes: ['1300'] | Colors: [] | ShapeFills: []
+  [Google Shape;24;p1] Cœur en Rose
+       Fonts: ['Georgia'] | Sizes: ['1400'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;25;p1] GALA SOLIDAIRE · COTONOU · OCT. 2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;26;p1] Solidaire
+       Fonts: ['Georgia'] | Sizes: ['3000'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;27;p1] TICKET INDIVIDUEL
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;28;p1] Accès au dîner-gala et à l'animation
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;28;p1] Accès à l'espace de sensibilisation
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;28;p1] Un ruban à nouer à l'Arbre de l'Espoir
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;28;p1] Participation à la minute de lumière rose
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;28;p1] Accès au photobooth de la soirée
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;29;p1] UN DON, UN EXAMEN, UNE VIE SAUVÉE
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;30;p1] BILLET N° ______
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;31;p1] SOLIDAIRE
+       Fonts: ['Georgia'] | Sizes: ['1100'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;32;p1] 50 000 FCFA
+       Fonts: ['Georgia'] | Sizes: ['2200'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;33;p1] 1 place
+       Fonts: ['Poppins'] | Sizes: ['900'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;34;p1] Places : 40
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['241C1C'] | ShapeFills: []
+  [Google Shape;55;p1] CER-STD-2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['241C1C'] | ShapeFills: []
+
+--- Slide 2 ---
+  [Google Shape;61;p2] 2. Ticket VIP « Espoir »
+       Fonts: ['Georgia'] | Sizes: ['1300'] | Colors: ['8A8078'] | ShapeFills: []
+  [Google Shape;69;p2] Cœur en Rose
+       Fonts: ['Georgia'] | Sizes: ['1400'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;70;p2] GALA SOLIDAIRE · COTONOU · OCT. 2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;71;p2] Espoir
+       Fonts: ['Georgia'] | Sizes: ['3000'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;72;p2] TICKET VIP
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;73;p2] Placement en zone préférentielle
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;73;p2] Cocktail de bienvenue
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;73;p2] Kit invité offert
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;73;p2] Carte-menu narrative « Du Doute à la Vie »
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;73;p2] Accès prioritaire au photobooth
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;74;p2] UN DON, UN EXAMEN, UNE VIE SAUVÉE
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;75;p2] BILLET N° ______
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;76;p2] ESPOIR
+       Fonts: ['Georgia'] | Sizes: ['1100'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;77;p2] 100 000 FCFA
+       Fonts: ['Georgia'] | Sizes: ['2200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;78;p2] 1 place
+       Fonts: ['Poppins'] | Sizes: ['900'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;79;p2] Places : 25
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;100;p2] CER-VIP-2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['F4E5B2'] | ShapeFills: []
+
+--- Slide 3 ---
+  [Google Shape;106;p3] 3. Ticket Prestige « Cœur d'Or »
+       Fonts: ['Georgia'] | Sizes: ['1300'] | Colors: ['8A8078'] | ShapeFills: []
+  [Google Shape;114;p3] ÉDITION PRESTIGE
+       Fonts: ['Poppins'] | Sizes: ['900'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;116;p3] Cœur en Rose
+       Fonts: ['Georgia'] | Sizes: ['1400'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;117;p3] GALA SOLIDAIRE · COTONOU · OCT. 2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;118;p3] Cœur d'Or
+       Fonts: ['Georgia'] | Sizes: ['3000'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;119;p3] TICKET PRESTIGE · 15 PLACES
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;120;p3] Table 1ᵉʳ rang face à la scène
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;120;p3] Cocktail privé VIP avant le gala
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;120;p3] Photo officielle avec marraines et autorités
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;120;p3] Mention nominative à l'écran et au programme
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;120;p3] Reçu-impact personnalisé + cadeau souvenir
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;121;p3] UN DON, UN EXAMEN, UNE VIE SAUVÉE
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;122;p3] BILLET N° ______
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;123;p3] CŒUR D'OR
+       Fonts: ['Georgia'] | Sizes: ['1100'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;124;p3] 150 000 FCFA
+       Fonts: ['Georgia'] | Sizes: ['2200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;125;p3] 1 place
+       Fonts: ['Poppins'] | Sizes: ['900'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;126;p3] Places : 15
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;147;p3] CER-OR-2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['F4E5B2'] | ShapeFills: []
+
+--- Slide 4 ---
+  [Google Shape;153;p4] 4. Table Entreprise
+       Fonts: ['Georgia'] | Sizes: ['1300'] | Colors: ['8A8078'] | ShapeFills: []
+  [Google Shape;161;p4] Cœur en Rose
+       Fonts: ['Georgia'] | Sizes: ['1400'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;162;p4] GALA SOLIDAIRE · COTONOU · OCT. 2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;163;p4] Table Partenaire
+       Fonts: ['Georgia'] | Sizes: ['3000'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;164;p4] 8 PLACES VIP
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;165;p4] 8 places en zone VIP pour l'entreprise
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;165;p4] Logo visible sur la table durant la soirée
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;165;p4] Mention comme table partenaire au micro
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;165;p4] Reçu-impact collectif au nom de l'entreprise
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;165;p4] Photo officielle de groupe avec bannière
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;166;p4] UN DON, UN EXAMEN, UNE VIE SAUVÉE
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;167;p4] BILLET N° ______
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['FFFFFF'] | ShapeFills: []
+  [Google Shape;168;p4] TABLE PARTENAIRE
+       Fonts: ['Georgia'] | Sizes: ['1100'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;169;p4] 1 600 000 FCFA
+       Fonts: ['Georgia'] | Sizes: ['2200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;170;p4] 8 places
+       Fonts: ['Poppins'] | Sizes: ['900'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;171;p4] Places : 8
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;192;p4] CER-TBL-2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['F4E5B2'] | ShapeFills: []
+
+--- Slide 5 ---
+  [Google Shape;198;p5] 5. Marraine / Parrain d'Espoir (édition limitée)
+       Fonts: ['Georgia'] | Sizes: ['1300'] | Colors: ['8A8078'] | ShapeFills: []
+  [Google Shape;206;p5] ÉDITION LIMITÉE
+       Fonts: ['Poppins'] | Sizes: ['900'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;208;p5] Cœur en Rose
+       Fonts: ['Georgia'] | Sizes: ['1400'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;209;p5] GALA SOLIDAIRE · COTONOU · OCT. 2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;210;p5] Marraine / Parrain
+       Fonts: ['Georgia'] | Sizes: ['3000'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;211;p5] TICKET D'HONNEUR · PLACES TRÈS LIMITÉES
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;212;p5] Tous les avantages « Cœur d'Or »
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;212;p5] Parrainage symbolique d'une femme bénéficiaire
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;212;p5] Rapport de suivi personnalisé après l'événement
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;212;p5] Nom associé au projet pendant toute l'année
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;212;p5] Invitation prioritaire à l'édition suivante
+       Fonts: ['Poppins'] | Sizes: ['1200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;213;p5] UN DON, UN EXAMEN, UNE VIE SAUVÉE
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;214;p5] BILLET N° ______
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;215;p5] MARRAINE / PARRAIN
+       Fonts: ['Georgia'] | Sizes: ['1100'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;216;p5] 300 000–500 000 FCFA
+       Fonts: ['Georgia'] | Sizes: ['2200'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;218;p5] Places : 4 à 5 max.
+       Fonts: ['Poppins'] | Sizes: ['1000'] | Colors: ['F4E5B2'] | ShapeFills: []
+  [Google Shape;239;p5] CER-MP-2026
+       Fonts: ['Poppins'] | Sizes: ['800'] | Colors: ['F4E5B2'] | ShapeFills: []
